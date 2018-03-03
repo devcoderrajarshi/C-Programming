@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_programming"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/rajar/Documents/C programming/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_programming">
+				<Option output="C:/Users/rajar/Documents/C programming/cmake-build-debug/C_programming.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/rajar/Documents/C programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_programming"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_programming/fast">
+				<Option output="C:/Users/rajar/Documents/C programming/cmake-build-debug/C_programming.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/rajar/Documents/C programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_programming/fast"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/rajar/Documents/C programming/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/rajar/Documents/C programming/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/rajar/Documents/C programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-1/Factorial/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-1/Fibo_func/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-1/Matrix_Determinant/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-1/Matrix_add/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-1/Matrix_mult/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-1/Maximum_number/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-1/Sparse_matrix/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-1/Swap_without/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-1/Tranpose_of_matrix/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-2/Lagrange&apos;s_interpolation/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-2/Newton&apos;s_forward_interpolation/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-2/Newtons_Backward/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-3/Simpson&apos;s_one_third_rule/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-3/Trapezoidal_rule/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-3/Weddle&apos;s_Rule/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-5/Bisection_Method/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-5/Newton_Raphson_method/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Ass-5/Regula_Falsi_method/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Fibo/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/Gauss_Seidel/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/MergeSort/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/My_first_program/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/a/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/abc/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/basic/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/dfgfdgfd/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/fac/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/knapsack/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/macro_defining/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/matrix_sorting/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/merge2/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/sss/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/times/main.cpp">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/tree/main.c">
+			<Option target="C_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/rajar/Documents/C programming/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

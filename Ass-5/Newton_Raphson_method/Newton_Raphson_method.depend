@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1462251674 source:c:\users\rajarshi\documents\c programming\newton_raphson_method\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1462251956 source:c:\users\rajarshi\documents\c programming\ass-5\newton_raphson_method\main.c
+	<stdio.h>
+	<stdlib.h>
+

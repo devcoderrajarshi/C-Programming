@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461487546 source:c:\users\rajarshi\documents\c programming\gauss_seidel\main.c
+	<stdlib.h >
+	<conio.h>
+	<math.h>
+

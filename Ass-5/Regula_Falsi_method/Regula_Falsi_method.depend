@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462252316 source:c:\users\rajarshi\documents\c programming\regula_falsi_method\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1462252316 source:c:\users\rajarshi\documents\c programming\ass-5\regula_falsi_method\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

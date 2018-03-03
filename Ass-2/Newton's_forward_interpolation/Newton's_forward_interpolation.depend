@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459919302 source:c:\users\rajarshi\documents\c programming\ass-2\newton's_forward_interpolation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

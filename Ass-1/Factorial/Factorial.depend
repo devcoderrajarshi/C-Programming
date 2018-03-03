@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456399826 source:c:\users\rajarshi\documents\c programming\factorial\main.c
+	<stdio.h>
+	<conio.h>
+
+1456399826 source:c:\users\rajarshi\documents\c programming\ass-1\factorial\main.c
+	<stdio.h>
+	<conio.h>
+

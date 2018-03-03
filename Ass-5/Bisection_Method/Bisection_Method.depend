@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462250142 source:c:\users\rajarshi\documents\c programming\bisection_method\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1462250773 source:c:\users\rajarshi\documents\c programming\ass-5\bisection_method\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

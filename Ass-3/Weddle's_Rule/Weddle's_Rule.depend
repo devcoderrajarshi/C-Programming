@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461477587 source:c:\users\rajarshi\documents\c programming\weddle's_rule\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

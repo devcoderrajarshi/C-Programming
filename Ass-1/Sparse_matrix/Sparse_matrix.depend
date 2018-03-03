@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456655575 source:c:\users\rajarshi\documents\c programming\sparse_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1456655682 source:c:\users\rajarshi\documents\c programming\ass-1\sparse_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

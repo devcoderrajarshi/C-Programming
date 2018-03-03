@@ -1,0 +1,214 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rajar/Documents/C programming/Ass-1/Factorial/main.c
+stdio.h
+-
+conio.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-1/Fibo_func/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-1/Matrix_Determinant/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-1/Matrix_add/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-1/Matrix_mult/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-1/Maximum_number/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-1/Sparse_matrix/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-1/Swap_without/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-1/Tranpose_of_matrix/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-2/Lagrange's_interpolation/main.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-2/Newton's_forward_interpolation/main.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-2/Newtons_Backward/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-3/Simpson's_one_third_rule/main.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+math.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-3/Trapezoidal_rule/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-3/Weddle's_Rule/main.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-5/Bisection_Method/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-5/Newton_Raphson_method/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Ass-5/Regula_Falsi_method/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
+C:/Users/rajar/Documents/C programming/Fibo/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/Gauss_Seidel/main.c
+stdlib.h 
+-
+conio.h
+-
+math.h
+-
+
+C:/Users/rajar/Documents/C programming/MergeSort/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/My_first_program/main.c
+stdio.h
+-
+
+C:/Users/rajar/Documents/C programming/a/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/abc/main.c
+stdio.h
+-
+
+C:/Users/rajar/Documents/C programming/basic/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/dfgfdgfd/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/fac/main.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+
+C:/Users/rajar/Documents/C programming/knapsack/main.c
+stdio.h
+-
+
+C:/Users/rajar/Documents/C programming/macro_defining/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/rajar/Documents/C programming/matrix_sorting/main.c
+conio.h
+-
+stdio.h
+-
+
+C:/Users/rajar/Documents/C programming/merge2/main.c
+stdio.h
+-
+
+C:/Users/rajar/Documents/C programming/sss/main.c
+stdio.h
+-
+
+C:/Users/rajar/Documents/C programming/tree/main.c
+conio.h
+-
+stdio.h
+-
+

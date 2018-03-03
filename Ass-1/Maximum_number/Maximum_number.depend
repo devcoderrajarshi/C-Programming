@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456649432 source:c:\users\rajarshi\documents\c programming\maximum_number\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1456755496 source:c:\users\rajarshi\documents\c programming\ass-1\maximum_number\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459917037 source:c:\users\rajarshi\documents\c programming\lagrange's_interpolation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

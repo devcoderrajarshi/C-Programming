@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1459934067 source:c:\users\rajarshi\documents\c programming\simpson's_one_third_rule\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1465354245 source:c:\users\rajarshi\documents\c programming\ass-3\simpson's_one_third_rule\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+
